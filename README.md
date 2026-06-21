@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LUX%20%7C%20scamlux&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Creative%20Startup%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LUX%20%7C%20scamlux&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Creative+Startup+Builder+%F0%9F%92%A1;Building+across+Fintech+%7C+AI+%7C+EdTech;Turning+bold+ideas+into+products" alt="Typing SVG" />
 
 </div>
 
- 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40nmmumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nmmumar)
 [![GitHub followers](https://img.shields.io/github/followers/scamlux?style=for-the-badge&color=black&logo=github)](https://github.com/scamlux)
+[![Profile Views](https://komarev.com/ghpvc/?username=scamlux&style=for-the-badge&color=blueviolet)](https://github.com/scamlux)
 
 </div>
 
@@ -64,8 +66,14 @@ const lux = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=scamlux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scamlux&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=scamlux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scamlux&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=scamlux&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
